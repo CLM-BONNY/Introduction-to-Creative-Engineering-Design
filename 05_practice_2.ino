@@ -9,7 +9,7 @@ void setup() {
 void loop() {
   int i = 0;
   
-  while(i < 6) {
+  while(i < 5) {
   digitalWrite(PIN_LED, 1); 
   delay(100);
   digitalWrite(PIN_LED, 0); 
